@@ -3,7 +3,7 @@
 set -e
 export CC=gcc
 
-echo "==> Installing gem dependencies…"
+echo "==> Installing gem dependecies…"
 
 # bundle check --path vendor/gems 2>&1 > /dev/null || {
 #   bundle install --binstubs bin --path vendor/gems --local --quiet
